@@ -9,7 +9,7 @@ Repositorio central para el seguimiento, documentación y entregables del desarr
 | Integrante | Rol / Especialidad | Contacto / Perfil |
 | :--- | :--- | :--- |
 | **Benjamín Ibaceta** | DB/ QA / Documentación | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/lilbenjaaaa) |
-| **Giovanni Jorquera** | IA/ Backend | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/usuario) |
+| **Giovanni Jorquera** | IA/ Backend | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)]((https://github.com/GiovanniJorquera)) |
 | **Domingo Muñoz** | Frontend / Integración IU/UX | [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/usuario) |
 
 ---
