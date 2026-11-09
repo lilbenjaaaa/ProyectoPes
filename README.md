@@ -1,4 +1,4 @@
-#  Proyecto de Título / Capstone – Gestión operativa de utilidades
+#  Proyecto de Título / Capstone – ProyectoPes
 
 Plataforma web de gestión operativa para empresas de servicios y suministros,
 desarrollada como Proyecto CAPSTONE y basada en el modelo de operaciones de Ditecsa.
