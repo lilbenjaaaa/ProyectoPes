@@ -1,6 +1,7 @@
-# ⚽ Proyecto de Título / Capstone – Academia Fútbol Total
+#  Proyecto de Título / Capstone – Gestión operativa de utilidades
 
-Repositorio central para el seguimiento, documentación y entregables del desarrollo tecnológico realizado para la organización **Academia Fútbol Total**.
+Plataforma web de gestión operativa para empresas de servicios y suministros,
+desarrollada como Proyecto CAPSTONE y basada en el modelo de operaciones de Ditecsa.
 
 ---
 
@@ -14,6 +15,18 @@ Repositorio central para el seguimiento, documentación y entregables del desarr
 
 ---
 
-## 📌 Resumen del Proyecto
+## 📌 Descripción
 
-Este proyecto aborda la digitalización y optimización de los procesos de gestión administrativa y deportiva de la **Academia Fútbol Total**, centralizando la administración de alumnos, seguimiento de entrenamientos, asistencias y control financiero.
+El sistema centraliza y relaciona información operativa proveniente de tres
+fuentes principales: **Lecturas**, **Cortes** y **Reposiciones**. Los datos se
+integran mediante un cruce relacional por identificador único
+(`CUENTA_CONTRATO`) y se sincronizan con direcciones maestras a través de
+consultas optimizadas, lo que permite una visión consolidada y consistente de
+la operación.
+
+## Características técnicas
+
+- Integración de datos reales y estructurados (Excel y MySQL).
+- Cruce relacional por `CUENTA_CONTRATO`.
+- Sincronización de direcciones maestras mediante consultas optimizadas.
+- Arquitectura web escalable.
